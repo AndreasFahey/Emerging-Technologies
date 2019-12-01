@@ -4,15 +4,17 @@ Started off by familiarising myself with Keras and started working with Neural N
 
 Keras References:
 
-https://github.com/ianmcloughlin/jupyter-teaching-notebooks/blob/master/keras-neurons.ipynb
-https://keras.io/
+- https://github.com/ianmcloughlin/jupyter-teaching-notebooks/blob/master/keras-neurons.ipynb
+- https://keras.io/
+- https://towardsdatascience.com/tensorflow-is-in-a-relationship-with-keras-introducing-tf-2-0-dcf1228f73ae
 
 MNIST References:
 
-https://nbviewer.jupyter.org/github/ianmcloughlin/jupyter-teaching-notebooks/blob/master/mnist.ipynb
-http://yann.lecun.com/exdb/mnist/
-https://docs.python.org/3/library/gzip.html#gzip.GzipFile
+- https://nbviewer.jupyter.org/github/ianmcloughlin/jupyter-teaching-notebooks/blob/master/mnist.ipynb
+- http://yann.lecun.com/exdb/mnist/
+- https://docs.python.org/3/library/gzip.html#gzip.GzipFile
 
 Neural Network References:
 
-https://nextjournal.com/gkoehler/digit-recognition-with-keras
+- https://nextjournal.com/gkoehler/digit-recognition-with-keras
+- https://skymind.ai/wiki/neural-network

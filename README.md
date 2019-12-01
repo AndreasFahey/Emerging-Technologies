@@ -6,6 +6,7 @@ Keras References:
 
 - https://github.com/ianmcloughlin/jupyter-teaching-notebooks/blob/master/keras-neurons.ipynb
 - https://keras.io/
+- https://jovianlin.io/keras-models-sequential-vs-functional/
 - https://towardsdatascience.com/tensorflow-is-in-a-relationship-with-keras-introducing-tf-2-0-dcf1228f73ae
 
 MNIST References:

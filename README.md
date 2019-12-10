@@ -19,3 +19,14 @@ Neural Network References:
 
 - https://nextjournal.com/gkoehler/digit-recognition-with-keras
 - https://skymind.ai/wiki/neural-network
+
+Pandas References:
+
+- https://pandas.pydata.org/
+- http://pandas.pydata.org/pandas-docs/stable/10min.html
+- https://www.youtube.com/watch?v=dcqPhpY7tWk
+
+Flask References:
+
+- https://palletsprojects.com/p/flask/
+- https://github.com/ianmcloughlin/random-web-app

@@ -11,7 +11,10 @@ In this project we were tasked to create, document and train a model that import
 
 - Application:
 
-For the project we were to also create a web application to predict hand-written digits from the mnist dataset. This will allow the user to draw a digit using the mouse or touch pad. For the web application i used the flask python package. I created a python file to load the model created in jupyter along with an html file, javascript file and css file for design. I adapted the html from https://www.html5canvastutorials.com/labs/html5-canvas-paint-application/. I also called the Jquery script from this online source for my script https://code.jquery.com/jquery-3.4.1.js. For the web application you need to run the python file which i will show below and copy and paste address given into google chrome. Then the user can draw a digit in the black box area for prediction, click predict to return the prediction. You may also clear the canvas and start again. I also implemented an image and imageResized into my code so when the user predicts an image on the web app it will be store as a png. I made an image resized simply to match the size of the mnist dataset digits i did in my jupyter notebook.
+For the project we were to also create a web application to predict hand-written digits from the mnist dataset. This will allow the user to draw a digit using the mouse or touch pad. For the web application i used the flask python package. I created a python file to load the model created in jupyter along with an html file, javascript file and css file for design. I adapted the html from https://www.html5canvastutorials.com/labs/html5-canvas-paint-application/. I also called the Jquery script from this online source for my script https://code.jquery.com/jquery-3.4.1.js. For the web application you need to run the python file which i will show below and copy and paste address given into google chrome. Then the user can draw a digit in the black box area for prediction, click predict to return the prediction. You may also clear the canvas and start again. I also implemented an image and imageResized into my code so when the user predicts an image on the web app it will be store as a png. I made an image resized simply to match the size of the mnist dataset digits i did in my jupyter notebook. 
+
+
+- Note: Forgot to mention i used OpenCV in my .py file. OpenCv Python is a library of Python bindings designed to solve computer vision problems. I also forgot to remove the script from html as i created a seperate javascript file for the script but it dosen't make a difference. I probably didn't mention this in submitted screencast. 
 
 
 - How To Run:
@@ -80,6 +83,8 @@ Flask References & Research:
 
 - https://palletsprojects.com/p/flask/
 - https://github.com/ianmcloughlin/random-web-app
+- https://opencv.org/
+- https://docs.opencv.org/master/d0/de3/tutorial_py_intro.html
 
 HTML & CSS References & Research:
 - https://www.html5canvastutorials.com/labs/html5-canvas-paint-application/
